@@ -95,6 +95,12 @@ h2{
     font-weight: 500;
 }
 
+.rating h4 span{
+    font-size: .6em;
+    margin: 9px;
+    color: #a0a0a0;
+}
+
 .details{
     display: flex;
     font-size: 0.95em;
